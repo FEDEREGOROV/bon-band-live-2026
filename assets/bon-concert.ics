@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//BON Band//Concert//RU
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:bon-20261226-bardo@bon.local
+DTSTAMP:20261108T120000Z
+DTSTART:20261226T120000Z
+SUMMARY:Б.О.Н. — концерт в БАРДО
+LOCATION:Москва\, Большая Спасская ул.\, дом 8\
+ , стр. 1А\, бар БАРДО
+DESCRIPTION:Первый сольный концерт после воз
+ вращения. Начало в 15:00 по Москве. Продол
+ жительность около 1\,5 часа\; точное окон
+ чание не указано. Регистрация: https://forms.gl
+ e/TXMuKkEhsaaNJqp99
+URL:https://forms.gle/TXMuKkEhsaaNJqp99
+END:VEVENT
+END:VCALENDAR
